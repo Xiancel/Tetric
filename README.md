@@ -18,5 +18,5 @@ Arrange the pieces to form a line and then it will be destroyed and you will get
 # Quick copy of a project
 Copy and run the following command to quickly copy the project:
 ```git
-git clone 
+git clone https://github.com/Xiancel/Tetric.git
 ```
